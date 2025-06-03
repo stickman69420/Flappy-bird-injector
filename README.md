@@ -13,9 +13,13 @@ If you pass between a pipe where the gap isn't gray, and is a primary colour, th
 if you already are that colour, then you'll get double points instead
 
 If the gap is a secondary colour then it will instead change gravity
+
 L Blue -> Regular
+
 Purple -> Upside - Down
+
 Yellow -> Swap
+
 
 # misc
 
