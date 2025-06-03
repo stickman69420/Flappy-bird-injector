@@ -1,6 +1,6 @@
 {
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
+  "name": "Inject Flappy Bird",
+  "description": "Injects my special version of flappy bird onto a webpage at the top when you click on the icon",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
