@@ -6,5 +6,5 @@
   "background": {
   "scripts": ["main.js"],
   "persistent": false
-},
+}
 }
