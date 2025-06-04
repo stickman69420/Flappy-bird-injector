@@ -167,4 +167,3 @@ return (obj.x < this.x+10 && obj.x+10 > this.x && obj.y > this.y && obj.y+10 < t
 }
 `;
 document.body.appendChild(scrpt);
-completion();
